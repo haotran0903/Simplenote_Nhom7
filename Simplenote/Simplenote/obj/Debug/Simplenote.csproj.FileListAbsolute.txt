@@ -1,0 +1,9 @@
+C:\Users\HNC\source\repos\Simplenote\Simplenote\bin\Debug\Simplenote.exe.config
+C:\Users\HNC\source\repos\Simplenote\Simplenote\bin\Debug\Simplenote.exe
+C:\Users\HNC\source\repos\Simplenote\Simplenote\bin\Debug\Simplenote.pdb
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.csprojAssemblyReference.cache
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.Properties.Resources.resources
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.csproj.GenerateResource.cache
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.exe
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.pdb
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.UTENote.resources

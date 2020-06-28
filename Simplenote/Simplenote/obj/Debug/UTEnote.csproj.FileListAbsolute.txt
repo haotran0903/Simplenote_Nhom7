@@ -1,0 +1,24 @@
+C:\Users\HNC\source\repos\Simplenote\Simplenote\bin\Debug\Simplenote.exe.config
+C:\Users\HNC\source\repos\Simplenote\Simplenote\bin\Debug\Simplenote.exe
+C:\Users\HNC\source\repos\Simplenote\Simplenote\bin\Debug\Simplenote.pdb
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\UTEnote.csprojAssemblyReference.cache
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.Properties.Resources.resources
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\UTEnote.csproj.GenerateResource.cache
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.exe
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.pdb
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.Views.ImportForm.resources
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.Views.UTEnote.resources
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.Views.HistoryForm.resources
+C:\Users\HNC\source\repos\Simplenote\Simplenote\obj\Debug\Simplenote.Views.Help.resources
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\bin\Debug\Simplenote.exe.config
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\bin\Debug\Simplenote.exe
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\bin\Debug\Simplenote.pdb
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\UTEnote.csprojAssemblyReference.cache
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.Views.Help.resources
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.Views.HistoryForm.resources
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.Views.ImportForm.resources
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.Views.UTEnote.resources
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.Properties.Resources.resources
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\UTEnote.csproj.GenerateResource.cache
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.exe
+E:\Hoc Tap\Nam 2\HK2\Lap trinh windows\Simplenote_Nhom7\Simplenote\Simplenote\obj\Debug\Simplenote.pdb
